@@ -1,0 +1,56 @@
+.
+
+
+/** just chock full of errors to test each error state possible!!!!! **/
+
+
+int _x += '32';
+
+
+
+02348.0
+03248231
+
+09e1
+0139e9
+0012.
+
+'"l'
+"'"
+
+'~'
+'
+'
+
+cat
+
+\b
+
+# 
+
+@
+
+hi:there
+
+12?34.
+
+
+"the house's ownwer is over \y there"
+'\{'
+
+/* this has an illegal char ` */
+/* so does this but different state *&*/
+
+.a
+
+0X321847aaabEEF%
+0x
+
+.
+
+
+12.0e
+
+.9E-
+
+''

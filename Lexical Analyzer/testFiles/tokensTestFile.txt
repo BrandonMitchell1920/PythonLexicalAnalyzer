@@ -1,0 +1,37 @@
+/* Not valid C! * / Test **** and /* in comments */
+/* All legal, should not error! */
+
+		/* tabs */
+        
+/* 
+    multi
+    line
+    comments
+*/
+
+/* int return, shouldn't output anything */
+
++ - /* addOp */
+/ * /* multOp */
+= += -= *= /= /* assignOp */
+t T f F /* boolLiteral */
+'a' 'z' '\\' '\'' '\"' '\a' '\b' '\f' '\n' '\r' '\t' '\v' /* char */
+, /* comma */
+> >= < <= == != /* comparator */
+1. .1 1234.567890 10e2 291.e-243 .432e+000010 0.0e0 00000. 09e1 0139e9 0012. 0008. /* float */
+++ -- /* increOp */
+main printf _x_992dg t_ F8 identifier /* identifier */
+0 0154 0XAf 0xabcdefABCDEF0123456789 30ul 1lU 0x0eLU 05UL 215u 0000 0xfeel /* intLiteral */
+{ /* lbrace */
+( /* lparen */
+} /* rbrace */
+) /* rparen */
+! /* logicalNot */
+; /* semicolon */
+"cats" "a string with escapes \n\b\"\v" "hello, world!" /* string */
+
+/* some whiteSpace at the end, is removed when read in */
+
+
+
+

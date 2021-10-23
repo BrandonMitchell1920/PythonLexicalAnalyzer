@@ -1,0 +1,45 @@
+-Impossible state
+-Illegal character or backslash out of char or string
+logicalNot
+lbrace
+lparen
+rbrace
+rparen
+semicolon
+comma
+comparator
+assignOp
+boolLiteral
+identifier
+addOp
+incrOp
+multOp
+comment
+char
+string
+intLiteral
+floatLiteral
+comparator
+addOp
+assignOp
+multOp
+intLiteral
+intLiteral
+intLiteral
+intLiteral
+intLiteral
+intLiteral
+floatLiteral
+-Illegal character in comment
+-Illegal character in comment
+-Illegal character in char
+-Char must end with single quote
+-Illegal character in string
+-Illegal character in hexadecimal literal
+-Exponation char {e | E} must be followed by {+ | - | 0-9}
+-Illegal exponation; {e | E}{+ | -} must be followed by {0-9}
+-Illegal period; must be followed by {0-9}
+-Illegal octal number
+-Illegal escape sequence in char
+-Illegal escape sequence in string
+whiteSpace
