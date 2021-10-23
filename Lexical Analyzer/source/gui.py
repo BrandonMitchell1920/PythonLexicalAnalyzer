@@ -256,10 +256,6 @@ class GUI:
         scanControlLabel.grid(column = 2, row = 70)
         scanControlButton.grid(padx = 20, column = 3, row = 70)    
         autoScanButton.grid(padx = 20, column = 4, row = 70)
-        
-        
-        
-
 
 
 
